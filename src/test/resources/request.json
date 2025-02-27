@@ -1,0 +1,34 @@
+{
+  "RequestDateTime": "2024-07-23T22:11:35.652",
+  "FirstName": "Angela",
+  "MiddleName": "Maria",
+  "FirstSurName": "Nunez",
+  "MiddleSurName": "Roa",
+  "PartySystemIdentifier": "ALIAS",
+  "PartyIdentifier": "@simulador436",
+  "DocumentIssuanceDate": "2023-02-02",
+  "DocumentType": "CC",
+  "DocumentNumber": "1018460288",
+  "PersonContact": {
+    "PostalAddress": {
+      "Address": "Cra 20 No. 33 - 15",
+      "PostalCode": "110611",
+      "DaneCode": "11001",
+      "TownName": "BOGOTA",
+      "Country": "CO"
+    },
+    "MobileNumber": "3138745276",
+    "Email": "djimenezt@rbm.com.co"
+  },
+  "Product": {
+    "Account": {
+      "ProductID": "8a5d6580-f46e-423d-b966-58c61fe546e4",
+      "BankId": "0888",
+      "TypeAccount": "CAHO",
+      "AccountNo": "1230456789",
+      "AgeAccount": "15",
+      "AccountScore": "750"
+    }
+  },
+  "TermsAndConditions": true
+}
